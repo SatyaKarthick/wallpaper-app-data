@@ -1,0 +1,119 @@
+{
+   
+  "wallpapers": [
+    {
+      "id": 1,
+      "title": "Love 1",
+      "fileName": "love_1.png",
+      "category": "LOVE",
+      "addedDate": "2026-10-07",
+      "tags": ["love", "romantic", "valentine"]
+    },
+    {
+      "id": 2,
+      "title": "Love 2",
+      "fileName": "love_2.png",
+      "category": "LOVE",
+      "addedDate": "2026-10-07",
+      "tags": ["love", "romantic", "valentine"]
+    },
+    {
+      "id": 3,
+      "title": "Love 3",
+      "fileName": "love_3.png",
+      "category": "LOVE",
+      "addedDate": "2026-10-07",
+      "tags": ["love", "romantic", "valentine"]
+    },
+
+    {
+      "id": 11,
+      "title": "Cat 1",
+      "fileName": "cat_1.png",
+      "category": "CAT",
+      "addedDate": "2026-10-07",
+      "tags": ["cat", "cute", "pet"]
+    },
+
+    {
+      "id": 16,
+      "title": "Dog 1",
+      "fileName": "dog_1.png",
+      "category": "DOG",
+      "addedDate": "2026-10-07",
+      "tags": ["dog", "cute", "pet"]
+    },
+
+    {
+      "id": 21,
+      "title": "Heart 1",
+      "fileName": "heart_1.png",
+      "category": "HEARTS",
+      "addedDate": "2026-10-07",
+      "tags": ["heart", "love", "pink"]
+    },
+
+    {
+      "id": 31,
+      "title": "Chocolate 1",
+      "fileName": "chocolate_1.png",
+      "category": "CHOCOLATE",
+      "addedDate": "2026-10-07",
+      "tags": ["chocolate", "sweet"]
+    },
+
+    {
+      "id": 37,
+      "title": "Balloons 1",
+      "fileName": "balloons_1.png",
+      "category": "BALLOONS",
+      "addedDate": "2026-10-07",
+      "tags": ["balloons", "party"]
+    },
+
+    {
+      "id": 42,
+      "title": "Realistic 1",
+      "fileName": "realistic_1.png",
+      "category": "REALISTIC",
+      "addedDate": "2026-10-07",
+      "tags": ["realistic", "photo", "hd"]
+    },
+
+    {
+      "id": 52,
+      "title": "Artistic 1",
+      "fileName": "artistic_1.png",
+      "category": "ARTISTIC",
+      "addedDate": "2026-10-07",
+      "tags": ["artistic", "creative", "art"]
+    },
+
+    {
+      "id": 62,
+      "title": "Gradient 1",
+      "fileName": "gradient_1.png",
+      "category": "GRADIENT",
+      "addedDate": "2026-10-07",
+      "tags": ["gradient", "colourful"]
+    },
+
+    {
+      "id": 72,
+      "title": "Scenery 1",
+      "fileName": "scenery_1.png",
+      "category": "SCENERY",
+      "addedDate": "2026-10-07",
+      "tags": ["scenery", "landscape"]
+    },
+
+    {
+      "id": 78,
+      "title": "3D Wallpaper 1",
+      "fileName": "3d_01.webp",
+      "category": "THREE_D",
+      "addedDate": "2026-10-07",
+      "tags": ["3d", "live", "premium"]
+    }
+  ]
+}
