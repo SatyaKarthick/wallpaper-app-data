@@ -1,5 +1,5 @@
  {
-   "currentNewCategory": "THREE_D",
+    "currentNewCategory": "4K_WILDLIFE",
   "wallpapers": [
     {"id":1,"title":"Love 1","fileName":"love_1.png","category":"LOVE","addedDate":"2026-08-01","tags":["love","romantic","valentine"]},
     {"id":2,"title":"Love 2","fileName":"love_2.png","category":"LOVE","addedDate":"2026-08-01","tags":["love","romantic","valentine"]},
@@ -88,17 +88,18 @@
     {"id":76,"title":"Scenery 5","fileName":"scenery_5.png","category":"SCENERY","addedDate":"2026-08-01","tags":["scenery","landscape","view"]},
     {"id":77,"title":"Scenery 6","fileName":"scenery_6.png","category":"SCENERY","addedDate":"2026-08-01","tags":["scenery","landscape","view"]},
 
-    {"id":78,"title":"3D Wallpaper 1","fileName":"3d_01.webp","category":"THREE_D","addedDate":"2026-10-07","tags":["3d","premium","wallpaper"]},
-    {"id":79,"title":"3D Wallpaper 2","fileName":"3d_02.webp","category":"THREE_D","addedDate":"2026-10-07","tags":["3d","premium","wallpaper"]},
-    {"id":80,"title":"3D Wallpaper 3","fileName":"3d_03.webp","category":"THREE_D","addedDate":"2026-10-07","tags":["3d","premium","wallpaper"]},
-    {"id":81,"title":"3D Wallpaper 4","fileName":"3d_04.webp","category":"THREE_D","addedDate":"2026-10-07","tags":["3d","premium","wallpaper"]},
-    {"id":82,"title":"3D Wallpaper 5","fileName":"3d_05.webp","category":"THREE_D","addedDate":"2026-10-07","tags":["3d","premium","wallpaper"]},
-    {"id":83,"title":"3D Wallpaper 6","fileName":"3d_06.webp","category":"THREE_D","addedDate":"2026-10-07","tags":["3d","premium","wallpaper"]},
-    {"id":84,"title":"3D Wallpaper 7","fileName":"3d_07.webp","category":"THREE_D","addedDate":"2026-10-07","tags":["3d","premium","wallpaper"]},
-    {"id":85,"title":"3D Wallpaper 8","fileName":"3d_08.webp","category":"THREE_D","addedDate":"2026-10-07","tags":["3d","premium","wallpaper"]},
-    {"id":86,"title":"3D Wallpaper 9","fileName":"3d_09.webp","category":"THREE_D","addedDate":"2026-10-07","tags":["3d","premium","wallpaper"]},
-    {"id":87,"title":"3D Wallpaper 10","fileName":"3d_10.webp","category":"THREE_D","addedDate":"2026-10-07","tags":["3d","premium","wallpaper"]},
-    {"id":88,"title":"3D Wallpaper 11","fileName":"3d_11.webp","category":"THREE_D","addedDate":"2026-10-07","tags":["3d","premium","wallpaper"]},
-    {"id":89,"title":"3D Wallpaper 12","fileName":"3d_12.webp","category":"THREE_D","addedDate":"2026-10-07","tags":["3d","premium","wallpaper"]}
+    {"id":78,"title":"3D Wallpaper 1","fileName":"3d_01.webp","category":"THREE_D","addedDate":"2026-10-07","tags":["3d","wallpaper"]},
+  {"id":79,"title":"3D Wallpaper 2","fileName":"3d_02.webp","category":"THREE_D","addedDate":"2026-10-07","tags":["3d","wallpaper"]},
+{"id":80,"title":"3D Wallpaper 3","fileName":"3d_03.webp","category":"THREE_D","addedDate":"2026-10-07","tags":["3d","wallpaper"]},
+{"id":81,"title":"3D Wallpaper 4","fileName":"3d_04.webp","category":"THREE_D","addedDate":"2026-10-07","tags":["3d","wallpaper"]},
+{"id":82,"title":"3D Wallpaper 5","fileName":"3d_05.webp","category":"THREE_D","addedDate":"2026-10-07","tags":["3d","wallpaper"]},
+{"id":83,"title":"3D Wallpaper 6","fileName":"3d_06.webp","category":"THREE_D","addedDate":"2026-10-07","tags":["3d","wallpaper"]},
+
+{"id":90,"title":"4K Lion","fileName":"4k_01.webp","category":"4K_WILDLIFE","addedDate":"2026-10-07","tags":["4k","wildlife","lion","wallpaper"]},
+{"id":91,"title":"4K Tiger","fileName":"4k_02.webp","category":"4K_WILDLIFE","addedDate":"2026-10-07","tags":["4k","wildlife","tiger","wallpaper"]},
+{"id":92,"title":"4K Leopard","fileName":"4k_03.webp","category":"4K_WILDLIFE","addedDate":"2026-10-07","tags":["4k","wildlife","leopard","wallpaper"]},
+{"id":93,"title":"4K Cheetah","fileName":"4k_04.webp","category":"4K_WILDLIFE","addedDate":"2026-10-07","tags":["4k","wildlife","cheetah","wallpaper"]},
+{"id":94,"title":"4K Black Panther","fileName":"4k_05.webp","category":"4K_WILDLIFE","addedDate":"2026-10-07","tags":["4k","wildlife","black panther","wallpaper"]},
+{"id":95,"title":"4K Wolf","fileName":"4k_06.webp","category":"4K_WILDLIFE","addedDate":"2026-10-07","tags":["4k","wildlife","wolf","wallpaper"]}
   ]
 }
