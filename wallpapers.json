@@ -1,119 +1,103 @@
-{
-   
+ {
   "wallpapers": [
-    {
-      "id": 1,
-      "title": "Love 1",
-      "fileName": "love_1.png",
-      "category": "LOVE",
-      "addedDate": "2026-10-07",
-      "tags": ["love", "romantic", "valentine"]
-    },
-    {
-      "id": 2,
-      "title": "Love 2",
-      "fileName": "love_2.png",
-      "category": "LOVE",
-      "addedDate": "2026-10-07",
-      "tags": ["love", "romantic", "valentine"]
-    },
-    {
-      "id": 3,
-      "title": "Love 3",
-      "fileName": "love_3.png",
-      "category": "LOVE",
-      "addedDate": "2026-10-07",
-      "tags": ["love", "romantic", "valentine"]
-    },
+    {"id":1,"title":"Love 1","fileName":"love_1.png","category":"LOVE","addedDate":"2026-08-01","tags":["love","romantic","valentine"]},
+    {"id":2,"title":"Love 2","fileName":"love_2.png","category":"LOVE","addedDate":"2026-08-01","tags":["love","romantic","valentine"]},
+    {"id":3,"title":"Love 3","fileName":"love_3.png","category":"LOVE","addedDate":"2026-08-01","tags":["love","romantic","valentine"]},
+    {"id":4,"title":"Love 4","fileName":"love_4.jpg","category":"LOVE","addedDate":"2026-08-01","tags":["love","romantic","valentine"]},
+    {"id":5,"title":"Love 5","fileName":"love_5.png","category":"LOVE","addedDate":"2026-08-01","tags":["love","romantic","valentine"]},
+    {"id":6,"title":"Love 6","fileName":"love_6.png","category":"LOVE","addedDate":"2026-08-01","tags":["love","romantic","valentine"]},
+    {"id":7,"title":"Love 7","fileName":"love_7.png","category":"LOVE","addedDate":"2026-08-01","tags":["love","romantic","valentine"]},
+    {"id":8,"title":"Love 8","fileName":"love_8.png","category":"LOVE","addedDate":"2026-08-01","tags":["love","romantic","valentine"]},
+    {"id":9,"title":"Love 9","fileName":"love_9.png","category":"LOVE","addedDate":"2026-08-01","tags":["love","romantic","valentine"]},
+    {"id":10,"title":"Love 10","fileName":"love_10.jpg","category":"LOVE","addedDate":"2026-08-01","tags":["love","romantic","valentine"]},
 
-    {
-      "id": 11,
-      "title": "Cat 1",
-      "fileName": "cat_1.png",
-      "category": "CAT",
-      "addedDate": "2026-10-07",
-      "tags": ["cat", "cute", "pet"]
-    },
+    {"id":11,"title":"Cat 1","fileName":"cat_1.png","category":"CAT","addedDate":"2026-08-01","tags":["cat","pet","cute","animal"]},
+    {"id":12,"title":"Cat 2","fileName":"cat_2.png","category":"CAT","addedDate":"2026-08-01","tags":["cat","pet","cute","animal"]},
+    {"id":13,"title":"Cat 3","fileName":"cat_3.jpg","category":"CAT","addedDate":"2026-08-01","tags":["cat","pet","cute","animal"]},
+    {"id":14,"title":"Cat 4","fileName":"cat_4.png","category":"CAT","addedDate":"2026-08-01","tags":["cat","pet","cute","animal"]},
+    {"id":15,"title":"Cat 5","fileName":"cat_5.png","category":"CAT","addedDate":"2026-08-01","tags":["cat","pet","cute","animal"]},
 
-    {
-      "id": 16,
-      "title": "Dog 1",
-      "fileName": "dog_1.png",
-      "category": "DOG",
-      "addedDate": "2026-10-07",
-      "tags": ["dog", "cute", "pet"]
-    },
+    {"id":16,"title":"Dog 1","fileName":"dog_1.png","category":"DOG","addedDate":"2026-08-01","tags":["dog","pet","cute","animal"]},
+    {"id":17,"title":"Dog 2","fileName":"dog_2.jpg","category":"DOG","addedDate":"2026-08-01","tags":["dog","pet","cute","animal"]},
+    {"id":18,"title":"Dog 3","fileName":"dog_3.png","category":"DOG","addedDate":"2026-08-01","tags":["dog","pet","cute","animal"]},
+    {"id":19,"title":"Dog 4","fileName":"dog_4.jpg","category":"DOG","addedDate":"2026-08-01","tags":["dog","pet","cute","animal"]},
+    {"id":20,"title":"Dog 5","fileName":"dog_5.png","category":"DOG","addedDate":"2026-08-01","tags":["dog","pet","cute","animal"]},
 
-    {
-      "id": 21,
-      "title": "Heart 1",
-      "fileName": "heart_1.png",
-      "category": "HEARTS",
-      "addedDate": "2026-10-07",
-      "tags": ["heart", "love", "pink"]
-    },
+    {"id":21,"title":"Hearts 1","fileName":"hearts_1.png","category":"HEARTS","addedDate":"2026-08-01","tags":["hearts","love","pink"]},
+    {"id":22,"title":"Hearts 2","fileName":"hearts_2.png","category":"HEARTS","addedDate":"2026-08-01","tags":["hearts","love","pink"]},
+    {"id":23,"title":"Hearts 3","fileName":"hearts_3.png","category":"HEARTS","addedDate":"2026-08-01","tags":["hearts","love","pink"]},
+    {"id":24,"title":"Hearts 4","fileName":"hearts_4.png","category":"HEARTS","addedDate":"2026-08-01","tags":["hearts","love","pink"]},
+    {"id":25,"title":"Hearts 5","fileName":"hearts_5.png","category":"HEARTS","addedDate":"2026-08-01","tags":["hearts","love","pink"]},
+    {"id":26,"title":"Hearts 6","fileName":"hearts_6.png","category":"HEARTS","addedDate":"2026-08-01","tags":["hearts","love","pink"]},
+    {"id":27,"title":"Hearts 7","fileName":"hearts_7.png","category":"HEARTS","addedDate":"2026-08-01","tags":["hearts","love","pink"]},
+    {"id":28,"title":"Hearts 8","fileName":"hearts_8.png","category":"HEARTS","addedDate":"2026-08-01","tags":["hearts","love","pink"]},
+    {"id":29,"title":"Hearts 9","fileName":"hearts_9.jpg","category":"HEARTS","addedDate":"2026-08-01","tags":["hearts","love","pink"]},
+    {"id":30,"title":"Hearts 10","fileName":"hearts_10.png","category":"HEARTS","addedDate":"2026-08-01","tags":["hearts","love","pink"]},
 
-    {
-      "id": 31,
-      "title": "Chocolate 1",
-      "fileName": "chocolate_1.png",
-      "category": "CHOCOLATE",
-      "addedDate": "2026-10-07",
-      "tags": ["chocolate", "sweet"]
-    },
+    {"id":31,"title":"Chocolate 1","fileName":"chocolate_1.png","category":"CHOCOLATE","addedDate":"2026-08-01","tags":["chocolate","sweet","delicious"]},
+    {"id":32,"title":"Chocolate 2","fileName":"chocolate_2.png","category":"CHOCOLATE","addedDate":"2026-08-01","tags":["chocolate","sweet","delicious"]},
+    {"id":33,"title":"Chocolate 3","fileName":"chocolate_3.png","category":"CHOCOLATE","addedDate":"2026-08-01","tags":["chocolate","sweet","delicious"]},
+    {"id":34,"title":"Chocolate 4","fileName":"chocolate_4.jpg","category":"CHOCOLATE","addedDate":"2026-08-01","tags":["chocolate","sweet","delicious"]},
+    {"id":35,"title":"Chocolate 5","fileName":"chocolate_5.png","category":"CHOCOLATE","addedDate":"2026-08-01","tags":["chocolate","sweet","delicious"]},
+    {"id":36,"title":"Chocolate 6","fileName":"chocolate_6.jpg","category":"CHOCOLATE","addedDate":"2026-08-01","tags":["chocolate","sweet","delicious"]},
 
-    {
-      "id": 37,
-      "title": "Balloons 1",
-      "fileName": "balloons_1.png",
-      "category": "BALLOONS",
-      "addedDate": "2026-10-07",
-      "tags": ["balloons", "party"]
-    },
+    {"id":37,"title":"Balloons 1","fileName":"balloons_1.png","category":"BALLOONS","addedDate":"2026-08-01","tags":["balloons","party","colorful"]},
+    {"id":38,"title":"Balloons 2","fileName":"balloons_2.jpg","category":"BALLOONS","addedDate":"2026-08-01","tags":["balloons","party","colorful"]},
+    {"id":39,"title":"Balloons 3","fileName":"balloons_3.png","category":"BALLOONS","addedDate":"2026-08-01","tags":["balloons","party","colorful"]},
+    {"id":40,"title":"Balloons 4","fileName":"balloons_4.png","category":"BALLOONS","addedDate":"2026-08-01","tags":["balloons","party","colorful"]},
+    {"id":41,"title":"Balloons 5","fileName":"balloons_5.png","category":"BALLOONS","addedDate":"2026-08-01","tags":["balloons","party","colorful"]},
 
-    {
-      "id": 42,
-      "title": "Realistic 1",
-      "fileName": "realistic_1.png",
-      "category": "REALISTIC",
-      "addedDate": "2026-10-07",
-      "tags": ["realistic", "photo", "hd"]
-    },
+    {"id":42,"title":"Realistic 1","fileName":"realistic_1.png","category":"REALISTIC","addedDate":"2026-08-01","tags":["realistic","photo","hd"]},
+    {"id":43,"title":"Realistic 2","fileName":"realistic_2.png","category":"REALISTIC","addedDate":"2026-08-01","tags":["realistic","photo","hd"]},
+    {"id":44,"title":"Realistic 3","fileName":"realistic_3.jpg","category":"REALISTIC","addedDate":"2026-08-01","tags":["realistic","photo","hd"]},
+    {"id":45,"title":"Realistic 4","fileName":"realistic_4.png","category":"REALISTIC","addedDate":"2026-08-01","tags":["realistic","photo","hd"]},
+    {"id":46,"title":"Realistic 5","fileName":"realistic_5.png","category":"REALISTIC","addedDate":"2026-08-01","tags":["realistic","photo","hd"]},
+    {"id":47,"title":"Realistic 6","fileName":"realistic_6.png","category":"REALISTIC","addedDate":"2026-08-01","tags":["realistic","photo","hd"]},
+    {"id":48,"title":"Realistic 7","fileName":"realistic_7.jpg","category":"REALISTIC","addedDate":"2026-08-01","tags":["realistic","photo","hd"]},
+    {"id":49,"title":"Realistic 8","fileName":"realistic_8.png","category":"REALISTIC","addedDate":"2026-08-01","tags":["realistic","photo","hd"]},
+    {"id":50,"title":"Realistic 9","fileName":"realistic_9.png","category":"REALISTIC","addedDate":"2026-08-01","tags":["realistic","photo","hd"]},
+    {"id":51,"title":"Realistic 10","fileName":"realistic_10.png","category":"REALISTIC","addedDate":"2026-08-01","tags":["realistic","photo","hd"]},
 
-    {
-      "id": 52,
-      "title": "Artistic 1",
-      "fileName": "artistic_1.png",
-      "category": "ARTISTIC",
-      "addedDate": "2026-10-07",
-      "tags": ["artistic", "creative", "art"]
-    },
+    {"id":52,"title":"Artistic 1","fileName":"artistic_1.jpg","category":"ARTISTIC","addedDate":"2026-08-01","tags":["artistic","creative","art"]},
+    {"id":53,"title":"Artistic 2","fileName":"artistic_2.jpg","category":"ARTISTIC","addedDate":"2026-08-01","tags":["artistic","creative","art"]},
+    {"id":54,"title":"Artistic 3","fileName":"artistic_3.jpg","category":"ARTISTIC","addedDate":"2026-08-01","tags":["artistic","creative","art"]},
+    {"id":55,"title":"Artistic 4","fileName":"artistic_4.jpg","category":"ARTISTIC","addedDate":"2026-08-01","tags":["artistic","creative","art"]},
+    {"id":56,"title":"Artistic 5","fileName":"artistic_5.jpg","category":"ARTISTIC","addedDate":"2026-08-01","tags":["artistic","creative","art"]},
+    {"id":57,"title":"Artistic 6","fileName":"artistic_6.jpg","category":"ARTISTIC","addedDate":"2026-08-01","tags":["artistic","creative","art"]},
+    {"id":58,"title":"Artistic 7","fileName":"artistic_7.jpg","category":"ARTISTIC","addedDate":"2026-08-01","tags":["artistic","creative","art"]},
+    {"id":59,"title":"Artistic 8","fileName":"artistic_8.jpg","category":"ARTISTIC","addedDate":"2026-08-01","tags":["artistic","creative","art"]},
+    {"id":60,"title":"Artistic 9","fileName":"artistic_9.jpg","category":"ARTISTIC","addedDate":"2026-08-01","tags":["artistic","creative","art"]},
+    {"id":61,"title":"Artistic 10","fileName":"artistic_10.jpg","category":"ARTISTIC","addedDate":"2026-08-01","tags":["artistic","creative","art"]},
 
-    {
-      "id": 62,
-      "title": "Gradient 1",
-      "fileName": "gradient_1.png",
-      "category": "GRADIENT",
-      "addedDate": "2026-10-07",
-      "tags": ["gradient", "colourful"]
-    },
+    {"id":62,"title":"Gradient 1","fileName":"gradient_1.png","category":"GRADIENT","addedDate":"2026-08-01","tags":["gradient","smooth","elegant"]},
+    {"id":63,"title":"Gradient 2","fileName":"gradient_2.png","category":"GRADIENT","addedDate":"2026-08-01","tags":["gradient","smooth","elegant"]},
+    {"id":64,"title":"Gradient 3","fileName":"gradient_3.png","category":"GRADIENT","addedDate":"2026-08-01","tags":["gradient","smooth","elegant"]},
+    {"id":65,"title":"Gradient 4","fileName":"gradient_4.png","category":"GRADIENT","addedDate":"2026-08-01","tags":["gradient","smooth","elegant"]},
+    {"id":66,"title":"Gradient 5","fileName":"gradient_5.png","category":"GRADIENT","addedDate":"2026-08-01","tags":["gradient","smooth","elegant"]},
+    {"id":67,"title":"Gradient 6","fileName":"gradient_6.png","category":"GRADIENT","addedDate":"2026-08-01","tags":["gradient","smooth","elegant"]},
+    {"id":68,"title":"Gradient 7","fileName":"gradient_7.png","category":"GRADIENT","addedDate":"2026-08-01","tags":["gradient","smooth","elegant"]},
+    {"id":69,"title":"Gradient 8","fileName":"gradient_8.jpg","category":"GRADIENT","addedDate":"2026-08-01","tags":["gradient","smooth","elegant"]},
+    {"id":70,"title":"Gradient 9","fileName":"gradient_9.png","category":"GRADIENT","addedDate":"2026-08-01","tags":["gradient","smooth","elegant"]},
+    {"id":71,"title":"Gradient 10","fileName":"gradient_10.jpg","category":"GRADIENT","addedDate":"2026-08-01","tags":["gradient","smooth","elegant"]},
 
-    {
-      "id": 72,
-      "title": "Scenery 1",
-      "fileName": "scenery_1.png",
-      "category": "SCENERY",
-      "addedDate": "2026-10-07",
-      "tags": ["scenery", "landscape"]
-    },
+    {"id":72,"title":"Scenery 1","fileName":"scenery_1.png","category":"SCENERY","addedDate":"2026-08-01","tags":["scenery","landscape","view"]},
+    {"id":73,"title":"Scenery 2","fileName":"scenery_2.png","category":"SCENERY","addedDate":"2026-08-01","tags":["scenery","landscape","view"]},
+    {"id":74,"title":"Scenery 3","fileName":"scenery_3.png","category":"SCENERY","addedDate":"2026-08-01","tags":["scenery","landscape","view"]},
+    {"id":75,"title":"Scenery 4","fileName":"scenery_4.png","category":"SCENERY","addedDate":"2026-08-01","tags":["scenery","landscape","view"]},
+    {"id":76,"title":"Scenery 5","fileName":"scenery_5.png","category":"SCENERY","addedDate":"2026-08-01","tags":["scenery","landscape","view"]},
+    {"id":77,"title":"Scenery 6","fileName":"scenery_6.png","category":"SCENERY","addedDate":"2026-08-01","tags":["scenery","landscape","view"]},
 
-    {
-      "id": 78,
-      "title": "3D Wallpaper 1",
-      "fileName": "3d_01.webp",
-      "category": "THREE_D",
-      "addedDate": "2026-10-07",
-      "tags": ["3d", "live", "premium"]
-    }
+    {"id":78,"title":"3D Wallpaper 1","fileName":"3d_01.webp","category":"THREE_D","addedDate":"2026-10-07","tags":["3d","premium","wallpaper"]},
+    {"id":79,"title":"3D Wallpaper 2","fileName":"3d_02.webp","category":"THREE_D","addedDate":"2026-10-07","tags":["3d","premium","wallpaper"]},
+    {"id":80,"title":"3D Wallpaper 3","fileName":"3d_03.webp","category":"THREE_D","addedDate":"2026-10-07","tags":["3d","premium","wallpaper"]},
+    {"id":81,"title":"3D Wallpaper 4","fileName":"3d_04.webp","category":"THREE_D","addedDate":"2026-10-07","tags":["3d","premium","wallpaper"]},
+    {"id":82,"title":"3D Wallpaper 5","fileName":"3d_05.webp","category":"THREE_D","addedDate":"2026-10-07","tags":["3d","premium","wallpaper"]},
+    {"id":83,"title":"3D Wallpaper 6","fileName":"3d_06.webp","category":"THREE_D","addedDate":"2026-10-07","tags":["3d","premium","wallpaper"]},
+    {"id":84,"title":"3D Wallpaper 7","fileName":"3d_07.webp","category":"THREE_D","addedDate":"2026-10-07","tags":["3d","premium","wallpaper"]},
+    {"id":85,"title":"3D Wallpaper 8","fileName":"3d_08.webp","category":"THREE_D","addedDate":"2026-10-07","tags":["3d","premium","wallpaper"]},
+    {"id":86,"title":"3D Wallpaper 9","fileName":"3d_09.webp","category":"THREE_D","addedDate":"2026-10-07","tags":["3d","premium","wallpaper"]},
+    {"id":87,"title":"3D Wallpaper 10","fileName":"3d_10.webp","category":"THREE_D","addedDate":"2026-10-07","tags":["3d","premium","wallpaper"]},
+    {"id":88,"title":"3D Wallpaper 11","fileName":"3d_11.webp","category":"THREE_D","addedDate":"2026-10-07","tags":["3d","premium","wallpaper"]},
+    {"id":89,"title":"3D Wallpaper 12","fileName":"3d_12.webp","category":"THREE_D","addedDate":"2026-10-07","tags":["3d","premium","wallpaper"]}
   ]
 }
