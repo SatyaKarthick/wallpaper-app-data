@@ -1,4 +1,5 @@
  {
+   "currentNewCategory": "THREE_D",
   "wallpapers": [
     {"id":1,"title":"Love 1","fileName":"love_1.png","category":"LOVE","addedDate":"2026-08-01","tags":["love","romantic","valentine"]},
     {"id":2,"title":"Love 2","fileName":"love_2.png","category":"LOVE","addedDate":"2026-08-01","tags":["love","romantic","valentine"]},
