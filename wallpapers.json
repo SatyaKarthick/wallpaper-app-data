@@ -1,5 +1,5 @@
  {
-    "currentNewCategory": "4K_WILDLIFE",
+    "currentNewCategory": "HALLOWEEN",
   "wallpapers": [
     {"id":1,"title":"Love 1","fileName":"love_1.png","category":"LOVE","addedDate":"2026-08-01","tags":["love","romantic","valentine"]},
     {"id":2,"title":"Love 2","fileName":"love_2.png","category":"LOVE","addedDate":"2026-08-01","tags":["love","romantic","valentine"]},
@@ -101,5 +101,11 @@
 {"id":93,"title":"4K Cheetah","fileName":"4k_04.webp","category":"4K_WILDLIFE","addedDate":"2026-10-07","tags":["4k","wildlife","cheetah","wallpaper"]},
 {"id":94,"title":"4K Black Panther","fileName":"4k_05.webp","category":"4K_WILDLIFE","addedDate":"2026-10-07","tags":["4k","wildlife","black panther","wallpaper"]},
 {"id":95,"title":"4K Wolf","fileName":"4k_06.webp","category":"4K_WILDLIFE","addedDate":"2026-10-07","tags":["4k","wildlife","wolf","wallpaper"]}
+
+{"id":96,"title":"Moonlit Gothic Castle","fileName":"halloween_01.webp","category":"HALLOWEEN","addedDate":"2026-10-23","tags":["halloween","gothic castle","moon","spooky"]},
+{"id":97,"title":"Pumpkins and Black Cat","fileName":"halloween_02.webp","category":"HALLOWEEN","addedDate":"2026-10-23","tags":["halloween","pumpkins","black cat","spooky"]},
+{"id":98,"title":"Cute Ghost and Pumpkin","fileName":"halloween_03.webp","category":"HALLOWEEN","addedDate":"2026-10-23","tags":["halloween","ghost","pumpkin","cute"]},
+{"id":99,"title":"Crystal Skull","fileName":"halloween_04.webp","category":"HALLOWEEN","addedDate":"2026-10-23","tags":["halloween","crystal skull","dark","spooky"]},
+{"id":100,"title":"Haunted Mansion Gate","fileName":"halloween_05.webp","category":"HALLOWEEN","addedDate":"2026-10-23","tags":["halloween","haunted mansion","gate","moon"]}
   ]
 }
